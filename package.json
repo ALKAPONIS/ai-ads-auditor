@@ -1,0 +1,1 @@
+{\n  "name": "ai-ads-auditor",\n  "version": "1.0.0",\n  "description": "A tool to audit AI advertising campaigns.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "test": "jest"\n  },\n  "keywords": ["AI", "advertising", "auditor"],\n  "author": "ALKAPONIS",\n  "license": "MIT"\n}
